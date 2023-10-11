@@ -1,5 +1,5 @@
-<h1 align="center">Olá 👋, eu sou Felipe Baptista</h1>
-<h3 align="center">Eu sou Felipe Baptista, um entusiasta da tecnologia apaixonado por Ciência e Inovação. Este é o meu espaço para compartilhar projetos, colaborações e aprender com a incrível comunidade do GitHub. Você pode conhecer meus repositório e também me chamar para trocarmos uma ideia legal! Atuo principalmente com JavaScript, TypeScript, Next.js, React, Node.js e Python.</h3>
+<h1>Olá 👋, eu sou Felipe Baptista</h1>
+Eu sou Felipe Baptista, um entusiasta da tecnologia apaixonado por Ciência e Inovação. Este é o meu espaço para compartilhar projetos, colaborações e aprender com a incrível comunidade do GitHub. Você pode conhecer meus repositório e também me chamar para trocarmos uma ideia legal! Atuo principalmente com JavaScript, TypeScript, Next.js, React, Node.js e Python.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
